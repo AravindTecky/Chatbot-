@@ -25,10 +25,4 @@ It demonstrates the fundamentals of creating an interactive text-based applicati
 
 ---
 
-🎯 Try extending it by adding more phrases, integrating NLP libraries, or connecting it to a web interface to make it more versatile!
-
----
-
-If you’d also like, I can help you draft **How to Run**, **Sample Output**, or even suggestions for further improvements. Let me know!
-
 Demo video: https://drive.google.com/file/d/11T7wfIAsXqK9c083YhaV4aMWkoVAA-4K/view?usp=sharing
